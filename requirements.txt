@@ -1,0 +1,8 @@
+pandas
+oauth2client
+google-cloud-bigquery
+google-api-python-client
+google-cloud-logging
+pytz
+pandas_gbq
+pandas.io

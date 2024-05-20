@@ -1,0 +1,7 @@
+{
+    "sources" : "bbc-news",
+    "apiKey": "ebb770008f2a438fb3384e0a4686ef16",
+    "project_id": "news-information-423715",
+    "destination_table": "news.raw",
+    "if_exists": "replace"
+  }

@@ -1,6 +1,6 @@
 # Lima Challenge
 
-Este repositório contém o código e os recursos necessários para o desafio técnico da Lima.
+Repositório com o código e recursos necessários para o desafio técnico da Lima.
 
 ### Descrição da Arquitetura
 

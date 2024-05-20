@@ -41,6 +41,15 @@ git clone 'https://github.com/luizgmeloneto/news-api.git'
 
     Dentro do arquivo flaskApi.py, a variável **query** pode ser alterada de acordo com a vontade do usuário a partir dela podemos fazer filtros e até mesmo alterar a tabela que iremos consultar os dados
 
+## Como acessar os dados pelo flaskApi
+    Assim que executarmos nosso arquivo flaskApi.py irá aparecer no terminal a URL que deverá ser acessada para ter a visão dos dados vindos do BigQuery. Ex: * Running on http://127.0.0.1:5000
+    
+    Para finalizar a execução, basta apertar CTRL + C.
+    
+## Resultados
+
+    Em **results.json** podemos ter uma amostra de como serão os resultados oriundos da news-API.
+
 ## Autor
 
 Luiz Guimarães

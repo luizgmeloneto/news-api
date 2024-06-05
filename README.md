@@ -1,6 +1,6 @@
-# Lima Challenge
+# News-API
 
-Repositório com o código e recursos necessários para o desafio técnico da Lima.
+Repositório com o código e recursos necessários.
 
 ### Descrição da Arquitetura
 
